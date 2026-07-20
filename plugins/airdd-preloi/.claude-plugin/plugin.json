@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "airdd-preloi",
+  "displayName": "AIRDD Pre-LOI Deck",
+  "version": "0.3.1",
+  "description": "Turn any VDR into a format-faithful Pre-LOI investment-summary deck (editable .pptx + HTML for Claude Design), evidence-gated with deep-linked source citations and complete metadata. Drives the local AIRDD Pre-LOI connector installed by AIRDD-PreLOI-Setup.exe; the sealed engine and all deal data stay on the machine.",
+  "author": { "name": "Messina Group" },
+  "license": "SEE LICENSE — proprietary, all rights reserved",
+  "keywords": ["investment-summary", "powerpoint", "pre-loi", "private-equity", "due-diligence", "vdr"],
+  "skills": "./skills/",
+  "commands": ["./commands/airdd-preloi.md"],
+  "homepage": "https://github.com/messinagroupinc/airdd-preloi-dist"
+}
