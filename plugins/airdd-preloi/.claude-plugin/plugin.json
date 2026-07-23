@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "airdd-preloi",
   "displayName": "AIRDD Pre-LOI Deck",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Turn any VDR into a format-faithful Pre-LOI investment-summary deck (editable .pptx + HTML for Claude Design), evidence-gated with deep-linked source citations and complete metadata. Drives the local AIRDD Pre-LOI connector installed by AIRDD-PreLOI-Setup.exe; the sealed engine and all deal data stay on the machine.",
   "author": { "name": "Messina Group" },
   "license": "SEE LICENSE — proprietary, all rights reserved",

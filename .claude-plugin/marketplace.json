@@ -11,7 +11,7 @@
       "name": "airdd-preloi",
       "source": "./plugins/airdd-preloi",
       "description": "Turn any VDR (folder / .zip / URL) into a format-faithful Pre-LOI investment-summary deck — editable .pptx + HTML for Claude Design — evidence-gated, deep-linked citations, full metadata. Runs on this machine via the local AIRDD Pre-LOI connector; deal data never leaves the PC.",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "category": "Finance"
     }
   ]
